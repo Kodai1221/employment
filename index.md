@@ -64,6 +64,7 @@
 - TEL: 〇〇〇〇-〇〇〇-〇〇〇
 - Email: xxxx@yirika.com
 
+<p><a href="./">ページの上へ</a></p>
 
 
 
