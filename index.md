@@ -10,7 +10,7 @@
 
 - 運転する車は中型なので、心配いりません！
 
-<img scr="car.jpg" width=200>
+  <img scr="car.jpg" width=200>
 
 
 # ◎求めている人材
