@@ -8,7 +8,7 @@
   <td><a href = "https://16-2505-0468.github.io/w046ff/dandai.html">実績紹介</a><br></td><br>
 </tr>
 <tr>
-  <td><a href = "hoby.html">問合わせ</a><br></td>
+  <td><a href = "https://16-2505-0468.github.io/w046ff/toiawase.html">問合わせ</a><br></td>
 </tr>
 </table><br>
 
