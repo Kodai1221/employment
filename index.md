@@ -1,7 +1,7 @@
 
 <table>
 <tr>
-  <td><a href = "index.html">トップ</a><br></td>
+  <td><a href = "http://1625050744.github.io/BGroup/index.html">トップ</a><br></td>
   <td><a href = ".html">YORICA利用方法</a><br></td>
   <td><a href = "https://16-2505-020-7.github.io/YORICA/TimeTable.html">YORICA利用可能エリア</a><br></td>
   <td><a href = "https://kodai1221.github.io/employment/index.html">運転手雇用について</a><br></td>
